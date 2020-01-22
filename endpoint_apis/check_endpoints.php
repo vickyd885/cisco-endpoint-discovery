@@ -2,7 +2,6 @@
 # Author: German Cheung
 
 include_once('axl.class.php');
-include_once('ris.class.php');
 error_reporting(0);
 
 /*
